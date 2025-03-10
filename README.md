@@ -1,4 +1,4 @@
-# Simple Cryptography  
+# Crypto-Shift
 *A beginner-friendly cryptography project exploring basic encryption and decryption techniques.*  
 
 ## Overview  
